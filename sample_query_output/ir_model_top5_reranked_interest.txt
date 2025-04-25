@@ -1,0 +1,25 @@
+1. DocID: 10
+   🔹 BM25 Score: 4.3959
+   🔹 Hybrid Score: 3.0375
+   📄 Content Snippet: plea sanity midst alright want explain first federal reserve bank private bank exists outside scope us government means congress president authority know anything trillions trillions dollars loans int...
+
+2. DocID: 18
+   🔹 BM25 Score: 4.1131
+   🔹 Hybrid Score: 2.8679
+   📄 Content Snippet: sure see protests wall street us complaining order understand australia relevance matter first important understand reserve banks operate relationships financial sectors governments government needs m...
+
+3. DocID: 14
+   🔹 BM25 Score: 3.7410
+   🔹 Hybrid Score: 2.6446
+   📄 Content Snippet: insanity government policies parties corporate controlled media silence upon read http whole range subjects issues corporate controlled media completely silent never mentions real problems affecting a...
+
+4. DocID: 64
+   🔹 BM25 Score: 3.0178
+   🔹 Hybrid Score: 2.2107
+   📄 Content Snippet: powell federal reserve track cut rates year inflation slowing economy healthy...
+
+5. DocID: 6
+   🔹 BM25 Score: 2.7883
+   🔹 Hybrid Score: 2.0730
+   📄 Content Snippet: would turn economy around president unites states seemed like fun idea thread reading long time please excuse posted frequently enough annoying purposes discussion assume supermajority houses would fo...
+

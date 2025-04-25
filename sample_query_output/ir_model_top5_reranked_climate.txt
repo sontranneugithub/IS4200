@@ -1,0 +1,25 @@
+1. DocID: 17
+   🔹 BM25 Score: 1.9288
+   🔹 Hybrid Score: 1.5573
+   📄 Content Snippet: anyone know ron paul supporter actually knows views paul racist homophobic views recently covered media tip iceberg newt gingrich think ron paul views totally outside mainstream virtually every decent...
+
+2. DocID: 12
+   🔹 BM25 Score: 1.8904
+   🔹 Hybrid Score: 1.5342
+   📄 Content Snippet: ny democratic debate introduction done best break entirety recent debate citing relevant articles topics mentioned keeping unbiased section personal score followed think overall ability swing undecide...
+
+3. DocID: 18
+   🔹 BM25 Score: 1.6560
+   🔹 Hybrid Score: 1.3936
+   📄 Content Snippet: appeal response ndaa hello internet posting extensive facebook friends list advised appeal larger audience friend suggested could get response posting reddit enclosed facebook message hope inspire tak...
+
+4. DocID: 1
+   🔹 BM25 Score: 1.5093
+   🔹 Hybrid Score: 1.3056
+   📄 Content Snippet: discussion thread year review 2019 2019 heads 2020 wanted take moment reflect past year biggest stories subreddit past discussion threads amas please use thread discuss favorite stories moments whatev...
+
+5. DocID: 13
+   🔹 BM25 Score: 1.4776
+   🔹 Hybrid Score: 1.2866
+   📄 Content Snippet: reddit time call action alec exposed conservative organization promoted influenced 800 local state bills aimed voter rights women rights gay rights climate change seeing sopa destroyed reddit doubt co...
+

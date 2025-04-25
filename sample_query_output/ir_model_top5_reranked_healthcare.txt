@@ -1,0 +1,25 @@
+1. DocID: 3
+   🔹 BM25 Score: 6.8069
+   🔹 Hybrid Score: 4.4841
+   📄 Content Snippet: people criticize obama almost never anything specific say besides generalities completely unfounded statements wild made guesses intentions specific point usually completely blatant falsehood increasi...
+
+2. DocID: 2
+   🔹 BM25 Score: 5.9337
+   🔹 Hybrid Score: 3.9602
+   📄 Content Snippet: open letter bernie sanders open letter bernie sanders senator sanders year interesting fully understand grow think history needed years surrounding 1776 country deeply disgruntled many overbearing bri...
+
+3. DocID: 8
+   🔹 BM25 Score: 6.9587
+   🔹 Hybrid Score: 3.7752
+   📄 Content Snippet: facebook post one friend friends like obama speech neither thoughts like obama speech neither today health care reform actually big fan think people die think reduce expenditures elderly american peop...
+
+4. DocID: 7
+   🔹 BM25 Score: 6.8721
+   🔹 Hybrid Score: 3.7233
+   📄 Content Snippet: spreads misinformation helping insurance companies received email today states dear moveon member big victory health care saturday house representatives passed bill includes public health insurance op...
+
+5. DocID: 5
+   🔹 BM25 Score: 4.6258
+   🔹 Hybrid Score: 3.1755
+   📄 Content Snippet: wondering thinks someone know view obama obamacare turn discourages job creation raising price hiring basic economics increase price labor companies buy less requiring employers buy health insurance w...
+

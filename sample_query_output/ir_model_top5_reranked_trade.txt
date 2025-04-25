@@ -1,0 +1,25 @@
+1. DocID: 2
+   🔹 BM25 Score: 2.3454
+   🔹 Hybrid Score: 1.8072
+   📄 Content Snippet: ny democratic debate introduction done best break entirety recent debate citing relevant articles topics mentioned keeping unbiased section personal score followed think overall ability swing undecide...
+
+2. DocID: 0
+   🔹 BM25 Score: 2.1421
+   🔹 Hybrid Score: 1.6853
+   📄 Content Snippet: spread sensata story middle poor class citizens call media click tweet celebrities clear outsourcing problem fact romney running president usa outsourcing record yet promising create us jobs naysayers...
+
+3. DocID: 86
+   🔹 BM25 Score: 1.9711
+   🔹 Hybrid Score: 1.5827
+   📄 Content Snippet: trump cancels agreement sweeping trade deal asia recasting role global economy...
+
+4. DocID: 88
+   🔹 BM25 Score: 1.7871
+   🔹 Hybrid Score: 1.4723
+   📄 Content Snippet: trump election could threaten global climate agreement...
+
+5. DocID: 37
+   🔹 BM25 Score: 1.6986
+   🔹 Hybrid Score: 1.4192
+   📄 Content Snippet: discussion thread tariff trade policy news reactions general updates news analysis ap sweeping trump tariffs shock global economy draw calls talks https reuters trump stokes trade war world reels tari...
+

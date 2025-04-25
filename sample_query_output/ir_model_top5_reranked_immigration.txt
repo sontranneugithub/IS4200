@@ -1,0 +1,25 @@
+1. DocID: 0
+   🔹 BM25 Score: 4.6241
+   🔹 Hybrid Score: 3.1745
+   📄 Content Snippet: discussion thread presidential address immigration tonight 8pm eastern president obama giving address immigration aired networks find list networks broadcasting address well links live streams live ad...
+
+2. DocID: 1
+   🔹 BM25 Score: 3.7228
+   🔹 Hybrid Score: 2.6337
+   📄 Content Snippet: discussion thread year review 2019 2019 heads 2020 wanted take moment reflect past year biggest stories subreddit past discussion threads amas please use thread discuss favorite stories moments whatev...
+
+3. DocID: 23
+   🔹 BM25 Score: 2.8032
+   🔹 Hybrid Score: 2.0819
+   📄 Content Snippet: megathread joseph biden sworn 46th president united states joe biden became 46th president united states wednesday declaring democracy prevailed swore oath office take helm deeply divided nation inher...
+
+4. DocID: 47
+   🔹 BM25 Score: 2.6917
+   🔹 Hybrid Score: 2.0150
+   📄 Content Snippet: trump sign spending deal declare national emergency southern border senator mitch mcconnell majority leader announced thursday president trump planned declare national emergency bypass congress build ...
+
+5. DocID: 93
+   🔹 BM25 Score: 2.5198
+   🔹 Hybrid Score: 1.9119
+   📄 Content Snippet: fellow americans understand class war corporations versus citizens next month vote vote american corporate agenda american citizen agenda edit emphasized one clear difference makes one party warriors ...
+
